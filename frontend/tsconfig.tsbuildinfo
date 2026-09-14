@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/recordcarbonmodal.tsx","./src/hooks/usecarboncontract.ts","./src/services/apiingestionservice.ts","./src/services/ctclampservice.ts","./src/services/ocrservice.ts","./src/types/dmrv.ts","./src/utils/dmrvcalculator.ts"],"version":"6.0.3"}

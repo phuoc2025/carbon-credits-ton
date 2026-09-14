@@ -1,0 +1,1 @@
+node -e "console.log('Bỏ qua ts-node, sử dụng file compiled sẵn trong thư mục contracts/')"

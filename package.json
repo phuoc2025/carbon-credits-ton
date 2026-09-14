@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^16.3.0",
+    "@tonconnect/ui-react": "^3.0.2",
+    "@twa-dev/sdk": "^8.0.2",
+    "dotenv": "^17.4.2",
+    "node-telegram-bot-api": "^2.1.0"
+  },
+  "devDependencies": {
+    "@ton/blueprint": "^0.45.0",
+    "@ton/core": "^0.63.1",
+    "@ton/sandbox": "^0.44.0",
+    "@types/node": "^22.20.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}

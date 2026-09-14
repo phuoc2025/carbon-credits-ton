@@ -1,0 +1,10 @@
+{
+    "$schema": "https://raw.githubusercontent.com/tact-lang/tact/main/src/config/config.schema.json",
+    "projects": [
+        {
+            "name": "carbon_rewards",
+            "path": "./contracts/carbon_rewards.tact",
+            "output": "./build/CarbonRewards"
+        }
+    ]
+}
